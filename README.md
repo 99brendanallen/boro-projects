@@ -1,7 +1,5 @@
-# boro-projects
-Projects that I completed while at University
+# Project 1
 
-Some projects may include some that are "in the works" -- but I'm not entirely sure yet. I had a GitHub account 
-for a long time now and I didn't really use it as much that I wanted to.
+Hi! Thank you for either looking or downloading my program! This project converts a number from Fahrenheit to Celsius!
 
-However, since I'm now at University, why not post some of the projects that I completed here?
+I will update this README file at a later date on how to execute it. However, if you know how to do that already, then go right ahead!
