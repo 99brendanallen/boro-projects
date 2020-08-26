@@ -28,5 +28,4 @@ int main(void)
 	cout << "Celsius= " << celsius <<endl<<endl;;
 	
 	return 0;
-
 }
