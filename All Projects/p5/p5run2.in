@@ -1,0 +1,24 @@
+p5run2.rpt   // name of the file
+Cody
+0            // invalid years old
+-2            // invalid years old
+seven         // invalid years old
+120           // invalid years old
+7             // valid years old
+0            // invalid number of guests		
+-9            // invalid number of guests		
+500           // invalid number of guests 
+seven         // invalid number of guests
+7             // valid number of guests
+Y
+Mary Anne Beth
+119
+499
+y
+Edward
+30
+100
+n
+
+
+
