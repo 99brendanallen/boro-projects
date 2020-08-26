@@ -1,7 +1,8 @@
-# boro-projects
-Projects that I completed while at University
+# Edinboro University Projects
 
-Some projects may include some that are "in the works" -- but I'm not entirely sure yet. I had a GitHub account 
-for a long time now and I didn't really use it as much that I wanted to.
+Hello, by the looks of my username, my name is Brendan and I'm currently enrolled in a coding class at my university. I decided to make this page so that I can share my progression of programming with you. Some of my projects listed on here are "in the works", so they will not be fully working. 
 
-However, since I'm now at University, why not post some of the projects that I completed here?
+However, I did complete the first programming course last semester and I will roll out the other 4 programs in the coming weeks, so, be on the lookout for that! Otherwise, below, are my completed projects.
+
+#### Completed Projects
+![CSCI130-P1](https://img.shields.io/github/v/tag/99brendanallen/boro-projects?color=red&include_prereleases&label=Convert%20Fahrenheit%20to%20Celcius&style=flat-square)
