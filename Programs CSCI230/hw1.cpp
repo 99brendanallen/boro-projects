@@ -1,5 +1,5 @@
 /*
-   Program 1:  Find Stats
+   Program 1: Finding Easy Stats
    Programmer: Brendan Allen
    Class:  CSCI 230,  Fall 2020
    Short Description:  This program
