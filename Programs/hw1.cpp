@@ -1,8 +1,8 @@
 /*
-   Program 1:  Find Stats
+   Program 1: Finding Some Easy Stats
    Programmer: Brendan Allen
    Class:  CSCI 230,  Fall 2020
-   Short Description:  This program
+   Short Description:  This program processes statistics depending on if the statement is true or not.
 
    Narrative:
         This program ...
@@ -17,8 +17,6 @@
 #include <iostream>
 #include <iomanip>
 
-
-
 using namespace std;
 
 void EnterMasterFile();
@@ -26,10 +24,10 @@ void EnterMasterFile();
 const string MASTER_FILE = "master.list";
 
 int main() {
-
   // open master file
   EnterMasterFile();
 
+  // start here
 
   return 0;
 }
@@ -42,5 +40,8 @@ void EnterMasterFile() {
   cin >> masterFile;
   if (masterFile != MASTER_FILE) {
     cout << "ERROR: Unable to open the master file " << masterFile << "." << endl;
+  }
+  else {
+    // successful in opening the file
   }
 }
